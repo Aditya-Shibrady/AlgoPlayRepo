@@ -1,4 +1,4 @@
-package JavaLambdas;
+package collections;
 
 public class Employee {
 
