@@ -7,6 +7,15 @@
     <groupId>AlgoPlay</groupId>
     <artifactId>AlgoPlay</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>Algorithm and Data Structures</name>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <spring.version>4.2.1.RELEASE</spring.version>
+        <spring.security.version>4.0.2.RELEASE</spring.security.version>
+        <groovy.version>2.4.6</groovy.version>
+    </properties>
 
     <build>
         <plugins>
@@ -22,5 +31,13 @@
         </plugins>
     </build>
 
-    
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.0</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
 </project>
