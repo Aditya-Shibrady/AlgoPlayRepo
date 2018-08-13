@@ -12,5 +12,8 @@ Recursion
 Java 8 Lambdas
 - Funtional Interfaces
 
+Collections
+- Collections Sort
+
 
 Good reference point for all topics : https://github.com/jwasham/coding-interview-university
