@@ -1,4 +1,4 @@
-package Algo.Recursion;
+package recursion;
 
 public class Factorial {
 

@@ -1,4 +1,4 @@
-package Algo;
+package recursion;
 
 public class Power {
 
