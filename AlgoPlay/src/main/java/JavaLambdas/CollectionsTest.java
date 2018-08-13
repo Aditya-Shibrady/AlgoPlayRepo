@@ -1,3 +1,5 @@
+package JavaLambdas;
+
 import java.util.*;
 
 public class CollectionsTest {

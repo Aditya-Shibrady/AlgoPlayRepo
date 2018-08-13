@@ -1,3 +1,5 @@
+package JavaLambdas;
+
 public class Employee {
 
    private String name;

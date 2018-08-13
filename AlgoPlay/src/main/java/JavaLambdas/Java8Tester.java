@@ -1,3 +1,5 @@
+package JavaLambdas;
+
 public class Java8Tester {
 
     final static String salutation = "Hello! ";
