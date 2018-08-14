@@ -15,7 +15,8 @@ Java 8 Lambdas
 Collections
 - Collections Sort
 
-
+Problems
+- Max Subsequence Sum
 
 
 Good reference point for all topics : https://github.com/jwasham/coding-interview-university
