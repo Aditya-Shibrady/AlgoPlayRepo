@@ -1,5 +1,6 @@
 package Problems;
 
+//O(log(n)) complexity
 public class BinarySearch {
 
     public static void main (String args[]){
