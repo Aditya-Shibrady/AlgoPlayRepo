@@ -1,5 +1,6 @@
 package Problems;
 
+//O(log(n))
 public class EuclidGCD {
 
     public static void main (String args []) {
