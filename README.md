@@ -17,6 +17,9 @@ Collections
 
 Problems
 - Max Subsequence Sum
+- Binary Search
+- Euclid's Algorithm for GCD
+- Power of number in O(log n)
 
 
 Good reference point for all topics : https://github.com/jwasham/coding-interview-university
