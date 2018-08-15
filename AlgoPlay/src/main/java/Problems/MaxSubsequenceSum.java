@@ -4,21 +4,22 @@ package Problems;
 public class MaxSubsequenceSum {
 
     public static void main(String args[]) {
-        int[] intArray = new int[]{4,5,-1,5};
+        int[] intArray = {-2, -3, 4, -1, -2, 1, 5, -3};
         System.out.println(maxSubSeq(intArray));
     }
 
     private static int maxSubSeq(int [] a) {
-        int maxSum = Integer.MIN_VALUE;
+        int maxSum = 0;
         int thisSum = 0;
 
         for(int i=0; i<a.length; i++){
             thisSum+=a[i];
 
-            if(thisSum > maxSum){
+            if(maxSum < thisSum){
                 maxSum = thisSum;
-            } else if (thisSum < 0) {
-                maxSum = 0;
+            }
+            if (thisSum < 0) {
+                thisSum = 0;
             }
         }
         return maxSum;
