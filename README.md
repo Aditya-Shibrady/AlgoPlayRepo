@@ -7,6 +7,9 @@ Contents:
 OOP/ CoreJava Concepts
 - Static Keyword
 - This Keyword
+- Inheritance
+- Overloading
+- Overriding
 
 Recursion
 - To find power of a number
