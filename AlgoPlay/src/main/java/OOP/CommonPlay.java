@@ -8,6 +8,10 @@ public class CommonPlay {
         //StaticKeyword.var4 = StaticKeyword.var4 + 34; Constant cant be changed
 
         //StaticKeyword.var1 = StaticKeyword.var4 + 34
+
+        Child1 test = new Child1();
+        test.m2();
+        test.m1();
     }
 
 }
