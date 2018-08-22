@@ -9,9 +9,13 @@ public class CommonPlay {
 
         //StaticKeyword.var1 = StaticKeyword.var4 + 34
 
-        Child1 test = new Child1();
-        test.m2();
-        test.m1();
+        Child1 tester = new Child1();
+        tester.m2();
+        tester.m1();
+
+        System.out.println(tester instanceof Child1);
+
+
     }
 
 }
