@@ -11,7 +11,7 @@ public class CollectionsTest {
         e1.setEid(747);
 
         Employee e2 = new Employee();
-        e2.setName("Varsha");
+        e2.setName("Nigga");
         e2.setEid(420);
 
         Employee e3 = new Employee();
