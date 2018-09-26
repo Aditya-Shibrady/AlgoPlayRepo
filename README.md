@@ -10,6 +10,8 @@ OOP/ CoreJava Concepts
 - Inheritance
 - Overloading
 - Overriding
+- Abstract Class
+- Interfaces
 
 Recursion
 - To find power of a number
